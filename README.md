@@ -1,0 +1,1 @@
+#This OCR is recognize Bangla 0-9 and English 0-9 Number, There are 566 sample in Train Dataset, Also Have a GUI to select image and predict number from image, Use python library Keras to implement Convolutional Neural Network
